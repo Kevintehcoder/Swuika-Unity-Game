@@ -1,5 +1,5 @@
 # Suika Game
-A clone of the viral Suika watermelon game 
+A clone of the viral Suika watermelon game implementing data persistance, state management, random generation, and instantiation.
 
 ## Tech Used
 - Unity / C#
