@@ -5,8 +5,8 @@ A clone of the viral Suika watermelon game
 - Unity / C#
 - Collision-based merging mechanics
 
-## What I learned
+## Logic Used
 - StateMachine
 - Scorekeeping between scenes
 - Storage and scripting structure
-- UI managing
+- UI management
