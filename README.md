@@ -1,2 +1,12 @@
-# Swuika-Unity-Game
-Very basic swuika game with score keeping
+# Suika Game
+A clone of the viral Suika watermelon game 
+
+## Tech Used
+- Unity / C#
+- Collision-based merging mechanics
+
+## What I learned
+- StateMachine
+- Scorekeeping between scenes
+- Storage and scripting structure
+- UI managing
