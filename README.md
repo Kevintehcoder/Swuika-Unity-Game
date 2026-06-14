@@ -5,7 +5,7 @@ A clone of the viral Suika watermelon game implementing data persistance, state 
 - Unity / C#
 - Collision-based merging mechanics
 
-## Logic Used
+## System implemented
 - StateMachine
 - Scorekeeping between scenes
 - Storage and scripting structure
